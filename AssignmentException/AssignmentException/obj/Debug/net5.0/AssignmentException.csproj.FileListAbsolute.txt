@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\AssignmentException\AssignmentException\bin\Debug\net5.0\AssignmentException.exe
+C:\Users\user\source\repos\AssignmentException\AssignmentException\bin\Debug\net5.0\AssignmentException.deps.json
+C:\Users\user\source\repos\AssignmentException\AssignmentException\bin\Debug\net5.0\AssignmentException.runtimeconfig.json
+C:\Users\user\source\repos\AssignmentException\AssignmentException\bin\Debug\net5.0\AssignmentException.runtimeconfig.dev.json
+C:\Users\user\source\repos\AssignmentException\AssignmentException\bin\Debug\net5.0\AssignmentException.dll
+C:\Users\user\source\repos\AssignmentException\AssignmentException\bin\Debug\net5.0\ref\AssignmentException.dll
+C:\Users\user\source\repos\AssignmentException\AssignmentException\bin\Debug\net5.0\AssignmentException.pdb
+C:\Users\user\source\repos\AssignmentException\AssignmentException\obj\Debug\net5.0\AssignmentException.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AssignmentException\AssignmentException\obj\Debug\net5.0\AssignmentException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\AssignmentException\AssignmentException\obj\Debug\net5.0\AssignmentException.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AssignmentException\AssignmentException\obj\Debug\net5.0\AssignmentException.AssemblyInfo.cs
+C:\Users\user\source\repos\AssignmentException\AssignmentException\obj\Debug\net5.0\AssignmentException.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AssignmentException\AssignmentException\obj\Debug\net5.0\AssignmentException.dll
+C:\Users\user\source\repos\AssignmentException\AssignmentException\obj\Debug\net5.0\ref\AssignmentException.dll
+C:\Users\user\source\repos\AssignmentException\AssignmentException\obj\Debug\net5.0\AssignmentException.pdb
+C:\Users\user\source\repos\AssignmentException\AssignmentException\obj\Debug\net5.0\AssignmentException.genruntimeconfig.cache

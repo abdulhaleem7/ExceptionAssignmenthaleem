@@ -1,0 +1,8 @@
+ System.IO.DirectoryNotFoundException
+ System.IO.DriveNotFoundException,
+ System.IO.EndOfStreamException
+ System.IO.FileNotFoundException
+ System.IO.FileLoadException
+ System.IO.PathTooLongException
+               
+            
